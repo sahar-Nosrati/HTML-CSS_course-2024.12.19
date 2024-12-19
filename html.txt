@@ -1,0 +1,10 @@
+- html -> Hyper text markup language 
+- HTML -> General content (structure of web page) in static web page 
+- <link rel="stylesheet" href=""> -> connection between external CSS  and HTML
+- <script src=""></script> ->
+  - Include in the <head>
+  - Include before the closing </body>
+    - point -> Async and Defer Attributes (Optional): You can use async or defer attributes for more control over script execution:
+      - async: Loads the script asynchronously and executes it as soon as it's available.
+      - defer: Loads the script asynchronously but delays execution until the entire HTML document is parsed.
+    
